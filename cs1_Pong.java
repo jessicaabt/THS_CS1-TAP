@@ -1,10 +1,10 @@
- import java.awt.*;
+import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
 import javax.sound.sampled.*;
 
-public class Abt_Pong{
+public class cs1_Pong{
     public static void main(String[] args){
         JFrame frame = new JFrame("Pong");
         frame.setSize(1000,800);
