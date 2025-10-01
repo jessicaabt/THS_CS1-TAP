@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Random;
-public class Abt_RPS{
+public class cs1_RockPaperScissors{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in); 
         Random rand = new Random(); 
