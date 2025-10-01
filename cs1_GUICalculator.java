@@ -1,7 +1,14 @@
+/*
+
+This was the first big GUI project we worked on and, with respect
+to the cs1_Calculator.java, it grew a LOT!!!
+
+*/
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-public class Abt_GUICalculator implements ActionListener{
+public class cs1_GUICalculator implements ActionListener{
     //data
     double number;
     double memory;
@@ -17,10 +24,10 @@ public class Abt_GUICalculator implements ActionListener{
     JButton[] button = new JButton[20];
 
     public static void main(String[] args){
-        new Abt_GUICalculator();
+        new cs1_GUICalculator();
     }
 
-    public Abt_GUICalculator(){
+    public cs1_GUICalculator(){
         frame = new JFrame("Calculator");
         frame.setSize(400, 600);
         frame.setLayout(new BorderLayout());
