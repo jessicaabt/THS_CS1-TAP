@@ -1,3 +1,11 @@
+/*
+
+This was the first program I ever made in my CS class! 
+I know it is silly to have here, but I ilke keeping it so I can visualize my 
+growth over the years and I continue to program and learn more about CS!
+
+*/
+
 import java.util.*;
 import java.time.*;
 import java.time.format.*;
