@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Abt_Calculator{
+public class cs1_Calculator{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         boolean running = true;
