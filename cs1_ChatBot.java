@@ -9,7 +9,7 @@ growth over the years and I continue to program and learn more about CS!
 import java.util.*;
 import java.time.*;
 import java.time.format.*;
-public class Abt_ChatBot{
+public class cs1_ChatBot{
     public static void main(String[] args){
         String userInput = "";
         boolean chatting = true;
